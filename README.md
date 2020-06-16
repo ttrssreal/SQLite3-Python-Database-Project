@@ -21,5 +21,6 @@ In order to add a new item to the database there is a new game command
 that will query the user for all the relevent attributes:
 
 Example - |new game
+
 Name: 
 ...
