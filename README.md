@@ -24,3 +24,12 @@ Example - |new game
 
 Name: 
 ...
+
+To update an attribute you the user types update and will then be prompted
+to input data about what they want to update
+
+Example - |update
+
+Name:
+Column:
+Change To:
