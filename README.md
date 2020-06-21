@@ -30,6 +30,8 @@ to input data about what they want to update
 
 Example - |update
 
-Name:
-Column:
-Change To:
+Name:...
+
+Column:...
+
+Change To:...
